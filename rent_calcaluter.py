@@ -1,0 +1,1 @@
+rent = int(input("enter your hostel/flate rent = "))
